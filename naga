@@ -6,10 +6,12 @@ public class AsciiValue {
         int ascii = ch;
         // You can also cast i am naveen to int
         here i am adding new things
+        again data added
         int castAscii = (int) ch;
 
         System.out.println("The ASCII value of " + ch + " is: " + ascii);
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+
 
